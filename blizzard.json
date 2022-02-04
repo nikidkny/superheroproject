@@ -1,0 +1,12 @@
+{
+  "name": "Blizz",
+  "powers": ["freeze", "snow", "flying"],
+  "primaryNemesis": "Flash",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYHJ-CYPpOZmwNA2is8hCfmJeqBmUeuA0l7w&usqp=CAU",
+  "lifePercentage": 100,
+  "dob": {
+    "day": 1,
+    "month": 2,
+    "year": 2022
+  }
+}
